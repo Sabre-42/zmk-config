@@ -50,9 +50,9 @@
 // | SHFT   |  Z   |  X   |  C  |   V  |   B  |      |      |         | LFT  |  DWN  | RGT  |      |
 //                    | CTRL |  ALT  | SPC |            | ENT  |  RSE    | ALT |
                         bindings = <
-   &kp ESC   &kp Q  &kp W  &kp E  &kp R  &kp T        &kp 1    &kp 2   &kp 3    &kp 4    &kp 5      &kp BSPC
-   &kp TAB   &kp A  &kp S  &kp D  &kp F  &kp G        &none    &none   &none    &kp UP   &none     &none
-   &kp LSHFT &kp Z  &kp X  &kp C  &kp V  &kp B        &none    &none   &kp LEFT &kp DOWN &kp RIGHT &none
+   &kp ESC   &kp Q  &kp W  &kp E  &kp R  &kp T        &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3 &kp NUMBER_4 &kp NUMBER_5 &kp BSPC
+   &kp TAB   &kp A  &kp S  &kp D  &kp F  &kp G        &none        &none        &none        &kp UP       &none     &none
+   &kp LSHFT &kp Z  &kp X  &kp C  &kp V  &kp B        &none        &none        &kp LEFT     &kp DOWN     &kp RIGHT &none
                     &kp LCTRL &kp LALT &kp SPACE        &kp RET  &to 1   &kp RALT
                         >;
                 };
