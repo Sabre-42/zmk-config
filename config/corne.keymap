@@ -12,7 +12,7 @@
 #define STANDARD 1
 #define GAMING 2
 
-/ {
+{
         keymap {
                 compatible = "zmk,keymap";
 
