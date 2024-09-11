@@ -8,15 +8,15 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 
-#define NUM/SYMBOL 0
+#define NUMERICAL 0
 #define STANDARD 1
 #define GAMING 2
 
-{
+/ {
         keymap {
                 compatible = "zmk,keymap";
 
-                NUM/SYMBOL {
+                NUMERICAL {
 // -----------------------------------------------------------------------------------------
 // | ESC |   |    |    |    |    |   |    |     |    |    |    |  |
 // | |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  ENT   |
