@@ -53,7 +53,7 @@
    &kp ESC   &kp Q  &kp W  &kp E  &kp R  &kp T        &kp NUMBER_7 &kp NUMBER_8 &kp NUMBER_9  &none     &none    &kp BSPC
    &kp TAB   &kp A  &kp S  &kp D  &kp F  &kp G        &kp NUMBER_4 &kp NUMBER_5 &kp NUMBER_6  &none     &kp UP   &kp MINUS
    &kp LSHFT &kp Z  &kp X  &kp C  &kp V  &kp B        &kp NUMBER_1 &kp NUMBER_2 &kp NUMBER_3  &kp LEFT  &kp DOWN &kp RIGHT
-                    &kp LCTRL &kp LALT   &kp RET      &kp SPACE  &to 1   &kp RALT
+                    &kp LCTRL &kp LALT   &kp SPACE     &kp RET  &to 1   &kp RALT
                         >;
                 };
 
